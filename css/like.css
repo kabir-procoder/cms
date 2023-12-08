@@ -1,0 +1,54 @@
+    /*    article .likedislike .firstone{*/
+    /*    background: #f6f6f6;*/
+    /*    border-radius: 5px;*/
+    /*    padding-right: 35px;*/
+    /*    padding-left: 35px;*/
+    /*    display: flex;*/
+    /*    width: 17.6rem;*/
+    /*} */
+    /*  article .likedislike .firstone i{*/
+    /*    font-size: 26px;*/
+    /*    color: #000;*/
+        
+    /*}*/
+    /*article .likedislike .firstone span{*/
+    /*    padding-top: 10px;*/
+        
+    /*}*/
+    /*article .likedislike .firstone .likeleft{        */
+    /* padding-left: 10px;   */
+    /*}*/
+    /*article .likedislike .firstone .disright{*/
+    /*    padding-right: 10px;*/
+    /*}*/
+  
+    /*article .likedislike #dislike{*/
+    /*    padding-left: 20px;*/
+    /*}*/
+    /*article .likedislike #like:after{*/
+    /*    content: '';*/
+    /*    border-left: 2px solid #d3d3d3;*/
+    /*    height: 37px;*/
+    /*    margin-left: 10px;*/
+    /*    position: absolute;*/
+    /*    margin-top: -10px;*/
+    /*}*/
+    /*@media screen and (max-width: 768px){*/
+    /*    article .likedislike .firstone i{*/
+    /*    font-size: 22px;*/
+        
+    /*}*/
+    /*    article .likedislike #like:after{*/
+    /*    content: '';*/
+    /*    border-left: 2px solid #d3d3d3;*/
+    /*    height: 32px;*/
+    /*    margin-left: 10px;*/
+    /*    position: absolute;*/
+    /*    margin-top: -10px;*/
+    /*}*/
+    /*    article .likedislike .firstone{       */
+    /*    padding-right: 35px;*/
+    /*    padding-left: 24px;*/
+    /*    width: 15rem;*/
+    /*}*/
+    /*}*/
